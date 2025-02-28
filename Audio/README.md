@@ -1,5 +1,7 @@
 
-[Audio Samples](samples.json)
+[Audio Samples JSON file](samples.json)
+
+`!reslist "https://jac307.github.io/MultimediaSamples/Audio/samples.json"`
 
 List of Audio Samples:
 
