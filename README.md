@@ -3,7 +3,7 @@
 This repository contains a curated collection of **multimedia materials** created or assembled by **Jessica A. Rodriguez**. It includes:
 
 - 🎞️ **[Video](Video/README.md)**
-- 🔊 **[Audio](Video/README.md)**  
+- 🔊 **[Audio](Audio/README.md)**  
 <!-- - 🖼️ **[Images](Video/README.md)** -->
 - 🔤 **[Fonts](Video/README.md)**
 
@@ -28,7 +28,7 @@ If the folder specifies additional collaborators, they must also be credited acc
 Este repositorio contiene una colección curada de **materiales multimedia** creados o recopilados por **Jessica A. Rodriguez**. Incluye:
 
 - 🎞️ **[Video](Video/README.md)**
-- 🔊 **[Audio](Video/README.md)**  
+- 🔊 **[Audio](Audio/README.md)**  
 <!-- - 🖼️ **[Images](Video/README.md)** -->
 - 🔤 **[Fuentes](Video/README.md)**
 
