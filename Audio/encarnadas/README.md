@@ -18,7 +18,7 @@ More info: [https://andamio.in/prod/encarnadas](https://andamio.in/prod/encarnad
 
 - [Audio Samples JSON file](samples.json)  
 - Use with:  
-  `` `!reslist "https://jac307.github.io/MultimediaSamples/Audio/samples.json"` ``
+  `` `!reslist "https://jac307.github.io/MultimediaSamples/Audio/encarnadas/samples.json"` ``
 
 ### List of Audio Samples:
 
