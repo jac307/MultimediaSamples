@@ -10,6 +10,7 @@ Let them circulate and evolve unless told otherwise.
 
 + [🗂️ Archival Footage – General Collection](main/README.md)
 + [🦋 Flight of the Monarchs – Video Resources](monarcas/README.md)
++ [Binis – Video Resources](binis/README.md)
 
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
